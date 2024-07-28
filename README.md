@@ -1,2 +1,1 @@
-# CASP-Compare
-A tool to asses precision of molecular predictions
+# A tool to asses precision of molecular predictions
